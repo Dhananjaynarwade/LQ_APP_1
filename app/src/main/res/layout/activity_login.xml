@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F5F5"
+
+    tools:context=".login">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+
+        android:layout_height="match_parent">
+
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/textview_login_lq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="50dp"
+
+
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="50dp"
+            android:fontFamily="@font/karma_semibold"
+            android:gravity="center"
+            android:text="Log in "
+            android:textColor="#130606"
+             android:textSize="35sp"
+            android:textStyle="bold" />
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="150dp"
+            android:layout_below="@+id/textview_login_lq"
+            android:id="@+id/animation_main"
+            android:layout_marginHorizontal="160dp"
+            android:layout_gravity="center"
+
+            android:layout_height="150dp"
+            android:layout_marginBottom="10dp"
+            app:lottie_rawRes="@raw/myown"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+
+            />
+
+    <EditText
+
+        android:id="@+id/edittext_Loginemail"
+        android:background="#C9B9B9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your user name"
+        android:layout_margin="30dp"
+        android:drawableLeft="@drawable/ic_baseline_person_outline_24"
+        android:drawablePadding="20dp"
+        android:fontFamily="@font/karma_semibold"
+
+        android:textColor="#B61111"
+        android:textColorHint="@color/black"
+        android:textStyle="bold"
+        android:padding="15dp"
+
+
+
+        android:textSize="20sp"
+        android:ems="10"
+        android:inputType="textEmailAddress"/>
+    <EditText
+        android:id="@+id/edittext_password"
+        android:background="#C9B9B9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Paasword"
+        android:layout_margin="30dp"
+
+        android:fontFamily="@font/karma_semibold"
+
+
+        android:layout_below="@id/edittext_Loginemail"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawableRight="@drawable/visible_hide"
+
+        android:drawablePadding="20dp"
+        android:textColorHint="#3F3333"
+        android:textStyle="italic"
+        android:padding="15dp"
+
+
+
+        android:textSize="20sp"
+        android:ems="10"
+        android:inputType="textPassword"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:textAlignment="center"
+
+        android:gravity="center"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dont have an account? "/>
+
+
+        <TextView
+
+        android:id="@+id/fresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:text="Create Account"
+        android:fontFamily="@font/karma_semibold"
+        android:textSize="15dp"
+
+
+        android:textStyle="bold"
+            tools:ignore="InvalidId" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/forgetPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dontacc_id"
+        android:layout_margin="10dp"
+
+        android:text="foreget your  password"
+        android:textColor="#00ACC1" />
+    <Button
+        android:id="@+id/login_loginbtn1"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/edittext_password"
+        android:layout_gravity="center"
+
+
+        android:layout_margin="10dp"
+
+
+        android:background="@drawable/custom_button1"
+        android:text="Login"
+        android:textAllCaps="false" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progBar_login"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:elevation="10dp"
+
+        android:visibility="gone"/>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+
+
+
+
+
+
+
+<!--            android:id="@+id/username_lq"
+
+            android:id="@+id/password_lq"
+            android:id="@+id/loginbtn_main"
+
+
+
+        <EditText
+            android:id="@+id/password_lq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/username_lq"
+            android:layout_margin="20dp"
+
+            android:layout_centerInParent="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="#30ffffff"
+            android:backgroundTint="#D60D0D"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawableRight="@drawable/visible_hide"
+            android:drawablePadding="20dp"
+            android:hint="Username"
+            android:padding="20dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black" />
+-->
+
+
+

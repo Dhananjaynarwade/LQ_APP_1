@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFA000"
+    android:orientation="vertical"
+
+    tools:context=".NavBar">
+
+    <ImageView
+        android:id="@+id/quiz_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/imgquiz"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        />
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="150dp"
+        android:layout_marginLeft="150dp"
+        android:layout_gravity="center"
+        android:layout_marginVertical="50dp"
+        >
+        <Button
+            android:id="@+id/play_but"
+            android:text="Play"
+            android:textAllCaps="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/custom_button1"
+            />
+
+        <Button
+            android:id="@+id/Btton1c"
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/custom_button1"
+            android:text="Choise"
+            android:textAllCaps="false"
+            android:layout_marginLeft="130dp"
+
+
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
