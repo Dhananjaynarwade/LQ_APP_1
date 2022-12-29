@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577140513780",
+    "project_id": "learningquizzo1",
+    "storage_bucket": "learningquizzo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577140513780:android:b1e8439581b56c803437a1",
+        "android_client_info": {
+          "package_name": "com.example.lq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577140513780-cc6dcucpndjeiqpr0n1loh861r4vr4f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvLc7JcYxBrzeDmsIJ6J3xr_ynY4ZWxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577140513780-cc6dcucpndjeiqpr0n1loh861r4vr4f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

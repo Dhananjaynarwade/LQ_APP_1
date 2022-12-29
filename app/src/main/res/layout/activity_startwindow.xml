@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Startwindow"
+    android:orientation="vertical"
+    android:id="@+id/rel"
+
+
+    android:gravity="center"
+    android:background="#00D8F4"
+
+    >
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="150dp"
+        android:layout_below="@+id/textview_login_lq"
+        android:id="@+id/animation_main"
+        android:layout_marginHorizontal="160dp"
+        android:layout_gravity="center"
+
+        android:layout_height="150dp"
+        android:layout_marginBottom="10dp"
+        app:lottie_rawRes="@raw/go"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="150dp"
+
+        >
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Star"
+        android:textSize="20sp"
+        android:background="@drawable/custom_button"
+        android:layout_marginRight="40dp"
+        android:id="@+id/start"/>
+
+    <Button
+        android:id="@+id/about_quiz_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="290dp"
+        android:textSize="20sp"
+
+
+        android:background="@drawable/custom_button"
+        android:text="About" />
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
