@@ -8,6 +8,7 @@
     android:background="#5A4343"
 
     >
+
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,6 +25,8 @@
             android:padding="12dp"
             android:gravity="center"
             android:orientation="vertical">
+
+
 
 
     <ImageView

@@ -65,7 +65,7 @@
         android:drawablePadding="20dp"
         android:fontFamily="@font/karma_semibold"
 
-        android:textColor="#B61111"
+        android:textColor="@color/black"
         android:textColorHint="@color/black"
         android:textStyle="bold"
         android:padding="15dp"
@@ -160,6 +160,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:elevation="10dp"
+        android:layout_gravity="center"
 
         android:visibility="gone"/>
 

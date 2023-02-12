@@ -8,31 +8,34 @@
     <string name="re_type_password">Re type password</string>
     <string name="alreday_have_an_account_login">Alreday have an account? Login</string>
     <string name="sign_Up">Sign up</string>
-    <string name="Sign_Up">sign_up1</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="open">open</string>
     <string name="close">Close</string>
-    <string name="app_version_info"></string>
-            <string name="app_version">App Version</string>
 
-        <string name="info1">
-            In today’s world Smart phones have changed our lives and have become an indispensable part of our lives because of its specialty to simplify our routine,work and thereby saving our time. A Smartphone with an Android OS offers-excellent functionality to the users offering a distinct experience.
+ <string name="des1">In this report I will be presenting an android application developed in Android studio using the programing language Java\n
+<!--     In this report I will be presenting an android application developed in Android studio using the programming language Java.\n-->
+\nThe application itself is an app which enables users of it to complete quizzes based on different topics that they can choose between.\n
 
-            Android is a Linux based operating system and it was bought by Google in 2007.There are tons of application available and one of the prime reason for this vast number is android being an open source. On the other hand, android based device like mobile, tab are very user friendly.
+\n In terms of goal and purpose of the application, it is meant to be a mean for educational purpose but also for general purpose such as enjoyment and etc.\n
 
-            In this context, Project application is developed based on android platform. The name of application is define as ‘LearningQuizuoo’ or 'LQ'
-        </string>
-<!--    <string name="info2">-->
-<!--        Android is a Linux\' based operating system and it was bought by Google in 2007.There are-->
-<!--tons of application available and one of the prime reason for this vast number is-->
-<!--android being an open source. On the other hand, android based device like-->
-<!--mobile, tab are very user friendly. A survey has done by “Light Castle Partners”-->
-<!--research wing which indicates that though other operating system mobile users-->
-<!--exist but the majority users are goes with android operating system.In this-->
-<!--context, Project application is developed based on android platform. The name-->
-<!--of application is define as ‘My Awesome Quiz’-->
-<!--                [this is justify]-->
 
-<!--    </string>-->
+\n So it’s not simulating an exam that is taken in university (involving grades and etc), but rather for enjoyment and learning purposes fun game like puzzle games,tic-tac-toe game so on.
+
+
+
+
+
+
+
+
+
+
+        <!-- In terms of goal and purpose of the application, it is meant to be a mean for educational purpose but also for general purpose such as enjoyment and etc.-->
+
+<!-- So it’s not simulating an exam that is taken in university (involving grades and etc), but rather for enjoyment and learning purposes-->
+
+
+    </string>
+
 </resources>

@@ -13,7 +13,7 @@ public class Startwindow extends AppCompatActivity {
 //    FrameLayout frameLayout;
 //
 //    NavigationView navigationView;
-
+Button game;
 
 
 
@@ -59,6 +59,8 @@ About.setOnClickListener(new View.OnClickListener() {
         startActivity(intent);
     }
 });
+game=findViewById(R.id.game);
+
 
 
 
