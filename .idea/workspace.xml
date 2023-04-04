@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_4a" />
+        <device id="pixel_4" />
+        <device id="_device_class_phone" />
+        <device id="pixel_6" />
+        <device id="desktop_small" />
+        <device id="tv_4k" />
+        <option name="nonWearDeviceLastStateName" value="Portrait" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62501aee-9d48-47f6-8f17-b541e886d158" name="Changes" comment="Final Commit1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R9BM8034CDJ]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LQ" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LQ" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LQ" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e81cda4e-a5c8-40de-9144-774b8a202a77" />
+        <option name="url" value="https://github.com/Dhananjaynarwade/LQ_APP_1" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2IgHA8xBGvtRxJCrdyoMClmXCs1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Kamlesh/AndroidStudioProjects/LQ/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kamlesh/AndroidStudioProjects/LQ_APP_1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;memory.settings&quot;
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="BUILD_VARIANTS_TAB" value="Flavors" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1388950923">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-940437630">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1425404403">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1473928702">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1962746098">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.817482571">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1912612211">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.100215407">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-733358462">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1273874088">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.1018383679">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\resources" />
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\xml\inforxml" />
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-1211487888">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-62962970">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.631723056">
+      <recent name="com.example.lq.km" />
+      <recent name="Folder" />
+      <recent name="mychoise" />
+      <recent name="com.example.lq.FolderChoise" />
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-181792072">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-117496916">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.297176390">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.308794293">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.563902777">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1535497020">
+      <recent name="com.example.lq" />
+      <recent name="com.example.lq.playquiz" />
+      <recent name="playquiz" />
+      <recent name="com.example.lq.quiz" />
+    </key>
+    <key name="android.template.-1127777435">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1513606485">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.1037424557">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-957486431">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.1690352883">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.1688036754">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-1313396161">
+      <recent name="com.example.lq" />
+      <recent name="quizplaying" />
+      <recent name="com.example.lq.playquiz" />
+    </key>
+    <key name="android.template.-1287578038">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.1941598828">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-2135456064">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-878318152">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-268564101">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\res\drawable" />
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\res\raw" />
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\res\anim" />
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Kamlesh\AndroidStudioProjects\LQ\app\src\main\java\com\example\lq" />
+    </key>
+    <key name="android.template.-1488760162">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-716083528">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.1551947448">
+      <recent name="com.example.lq" />
+      <recent name="com.example.lq.quiz Start" />
+    </key>
+    <key name="android.template.2090483369">
+      <recent name="com.example.lq" />
+    </key>
+    <key name="android.template.-294683227">
+      <recent name="com.example.lq" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="LQ.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LQ:app [testDebugUnitTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testDebugUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LQ:app [testReleaseUnitTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testReleaseUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LQ:app [testReleaseUnitTest]" />
+        <item itemvalue="Gradle.LQ:app [testDebugUnitTest]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Kamlesh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62501aee-9d48-47f6-8f17-b541e886d158" name="Changes" comment="" />
+      <created>1670596167292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670596167292</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Final Commit">
+      <created>1672309426458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672309426458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final Commit">
+      <created>1672331974442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672331974442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final Commit">
+      <created>1672332637772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672332637772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final Commit">
+      <created>1672333046915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672333046915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final Commit">
+      <created>1672333133095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672333133095</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final Commit">
+      <created>1672333147057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672333147057</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final Commit">
+      <created>1672684371355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672684371355</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final Commit">
+      <created>1672770538905</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672770538905</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final Commit">
+      <created>1672770557645</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672770557645</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final Commit">
+      <created>1672771716458</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672771716458</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final Commit">
+      <created>1674538061587</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674538061587</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final Commit">
+      <created>1674538068612</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674538068612</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Final Commit">
+      <created>1674539331014</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674539331014</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Final Commit">
+      <created>1674539352378</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674539352378</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final Commit">
+      <created>1674541595031</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674541595031</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Final Commit">
+      <created>1674541645043</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674541645043</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final Commit1">
+      <created>1674541659116</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674541659116</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Final Commit1">
+      <created>1676197712729</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676197712729</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Final Commit1">
+      <created>1680626811447</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680626811447</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="cc8cba41-7a79-49ec-b8b1-bd90a0d8bf26">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Kamlesh/AndroidStudioProjects/LQ/app/src/main/java/com/example/lq" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="cc8cba41-7a79-49ec-b8b1-bd90a0d8bf26" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Final Commit y" />
+    <MESSAGE value="Final Commit" />
+    <MESSAGE value="Final Commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+        <breakpoint enabled="true" type="CidrExceptionBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

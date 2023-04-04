@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_js" type="id">js_img</item>
+    <item name="textView_signup" type="id">SignUp</item>
+    <item name="EditText_username" type="id">UserName</item>
+    <item name="EditText_email" type="id">Email</item>
+    <item name="EditText_password" type="id">Password</item>
+    <item name="Edittext_repassword" type="id">Re-Typr-Password</item>
+    <item name="Button_Signup_Account" type="id">SignUp-Account</item>
+    <item name="TextView_LoginPage" type="id">LoginPage_Textview</item>
+    <item name="progBar" type="id">ProgressBar</item>
+</resources>

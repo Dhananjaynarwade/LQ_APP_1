@@ -58,39 +58,39 @@
 
 
 
-<!--Start Button-->
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Star"
-        android:textSize="20sp"
-        android:background="@drawable/custom_button"
-        android:layout_marginRight="40dp"
-        android:id="@+id/start"/>
+        <!--Start Button-->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Star"
+            android:textSize="20sp"
+            android:background="@drawable/custom_button"
+            android:layout_marginRight="40dp"
+            android:id="@+id/start"/>
 
         <!--Game  Button-->
         <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Game"
-        android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Game"
+            android:textSize="20sp"
             android:layout_marginLeft="150dp"
-        android:background="@drawable/custom_button"
-        android:layout_marginRight="40dp"
+            android:background="@drawable/custom_button"
+            android:layout_marginRight="40dp"
             android:gravity="center"
-        android:id="@+id/game"/>
+            android:id="@+id/game"/>
 
         <!--Abiut Button-->
         <Button
-        android:id="@+id/about_quiz_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="290dp"
-        android:textSize="20sp"
+            android:id="@+id/about_quiz_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="290dp"
+            android:textSize="20sp"
 
 
-        android:background="@drawable/custom_button"
-        android:text="About" />
+            android:background="@drawable/custom_button"
+            android:text="About" />
     </RelativeLayout>
 
 

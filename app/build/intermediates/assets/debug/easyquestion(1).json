@@ -1,0 +1,12 @@
+{
+  "easyquestions": [
+    {
+      "question": "java is which langauge",
+      "ans1": "A)programing",
+      "ans2": "B)js",
+      "ans1": "C)C",
+      "ans1": "D)C++",
+      "correct": "A"
+    }
+  ]
+}

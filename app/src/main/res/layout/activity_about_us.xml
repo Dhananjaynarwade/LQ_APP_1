@@ -15,56 +15,56 @@
 
 
 
-    <com.google.android.material.appbar.MaterialToolbar
+        <com.google.android.material.appbar.MaterialToolbar
             app:title="About"
             app:titleCentered="true"
             android:layout_width="match_parent"
-        android:layout_height="match_parent">
+            android:layout_height="match_parent">
 
-    </com.google.android.material.appbar.MaterialToolbar>
-       </com.google.android.material.appbar.AppBarLayout>
+        </com.google.android.material.appbar.MaterialToolbar>
+    </com.google.android.material.appbar.AppBarLayout>
 
 
-            <com.google.android.material.card.MaterialCardView
-            app:cardBackgroundColor="@color/white"
-            app:cardCornerRadius="25dp"
+    <com.google.android.material.card.MaterialCardView
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="25dp"
 
-            app:strokeWidth="0dp"
-            android:layout_margin="25dp"
+        app:strokeWidth="0dp"
+        android:layout_margin="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            >
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="150dp"
-                    android:orientation="vertical"
-                    android:gravity="center">
-                    <ImageView
-                        android:layout_width="40dp"
-                        android:layout_height="40dp"
-                        android:src="@drawable/quiz"
-                        tools:ignore="ContentDescription" />
-                    <TextView
-                        android:textSize="17sp"
-                        android:textStyle="bold"
-                        android:textColor="@color/black"
-                        android:layout_marginTop="15dp"
-                        android:text="@string/app_name"
+            android:layout_height="150dp"
+            android:orientation="vertical"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/quiz"
+                tools:ignore="ContentDescription" />
+            <TextView
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:text="@string/app_name"
 
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"/>
-<!--                    <TextView-->
-<!--                        android:layout_width="wrap_content"-->
-<!--                        android:layout_height="wrap_content"-->
-<!--                        android:text="@string/app_version"-->
-<!--                        android:textColor="@color/black"-->
-<!--                        android:textSize="13sp"-->
-<!--                        />-->
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <!--                    <TextView-->
+            <!--                        android:layout_width="wrap_content"-->
+            <!--                        android:layout_height="wrap_content"-->
+            <!--                        android:text="@string/app_version"-->
+            <!--                        android:textColor="@color/black"-->
+            <!--                        android:textSize="13sp"-->
+            <!--                        />-->
 
-                </LinearLayout>
+        </LinearLayout>
 
 
-        </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material.card.MaterialCardView>
 
 
 
@@ -82,42 +82,42 @@
             android:layout_height="match_parent"
             >
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:orientation="vertical"
-            android:gravity="center">
-
-            <TextView
-                android:textSize="17sp"
-                android:textStyle="bold"
-                android:textColor="@color/black"
-                android:layout_marginTop="15dp"
-                android:text="LQ"
-                android:gravity="center"
-
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
-            <TextView
-                android:id="@+id/txt1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#000000"
-                android:text="@string/des1"
-                android:textSize="15sp"
+                android:layout_height="150dp"
+                android:orientation="vertical"
+                android:gravity="center">
 
-                android:fontFamily="@font/karma_semibold"
-                android:background="#FFFFFF"
-                android:justificationMode="inter_word"
-                android:paddingVertical="20dp"
-                android:paddingRight="20dp"
-                android:paddingLeft="20dp"
+                <TextView
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="15dp"
+                    android:text="LQ"
+                    android:gravity="center"
 
-              android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:id="@+id/txt1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:text="@string/des1"
+                    android:textSize="15sp"
 
-                />
+                    android:fontFamily="@font/karma_semibold"
+                    android:background="#FFFFFF"
+                    android:justificationMode="inter_word"
+                    android:paddingVertical="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingLeft="20dp"
 
-        </LinearLayout>
+                    android:layout_marginTop="20dp"
+
+                    />
+
+            </LinearLayout>
         </ScrollView>
 
 

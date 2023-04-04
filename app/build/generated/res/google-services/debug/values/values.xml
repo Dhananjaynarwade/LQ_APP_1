@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">577140513780-cc6dcucpndjeiqpr0n1loh861r4vr4f7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">577140513780</string>
+    <string name="google_api_key" translatable="false">AIzaSyCVvLc7JcYxBrzeDmsIJ6J3xr_ynY4ZWxc</string>
+    <string name="google_app_id" translatable="false">1:577140513780:android:b1e8439581b56c803437a1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVvLc7JcYxBrzeDmsIJ6J3xr_ynY4ZWxc</string>
+    <string name="google_storage_bucket" translatable="false">learningquizzo1.appspot.com</string>
+    <string name="project_id" translatable="false">learningquizzo1</string>
+</resources>

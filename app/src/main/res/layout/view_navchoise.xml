@@ -16,7 +16,7 @@
         app:contentPadding="6dp"
         android:background="#DD0F0F"
 
-    android:layout_margin="3dp">
+        android:layout_margin="3dp">
 
         <LinearLayout
 
@@ -29,21 +29,21 @@
 
 
 
-    <ImageView
-        android:layout_width="80dp"
-        android:layout_height="80dp"
-        android:adjustViewBounds="true"
-        android:id="@+id/imageview_navchoise"
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:adjustViewBounds="true"
+                android:id="@+id/imageview_navchoise"
 
-        android:src="@drawable/java"/>
+                android:src="@drawable/java"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/textview_navchoise2"
-        android:text="Java"
-        android:textSize="20sp"
-        android:gravity="center_horizontal"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textview_navchoise2"
+                android:text="Java"
+                android:textSize="20sp"
+                android:gravity="center_horizontal"/>
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
